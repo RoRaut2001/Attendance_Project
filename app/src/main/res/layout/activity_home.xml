@@ -73,55 +73,55 @@
 
             <TextView
                 android:id="@+id/employeeNameTextView"
-                android:layout_width="383dp"
-                android:layout_height="53dp"
+                android:layout_width="329dp"
+                android:layout_height="74dp"
                 android:text="Employee Name:"
                 android:textColor="@color/app_theme"
                 android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.571"
+                app:layout_constraintHorizontal_bias="0.454"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.231" />
+                app:layout_constraintVertical_bias="0.208" />
 
             <TextView
                 android:id="@+id/employeeEmailTextView"
-                android:layout_width="390dp"
-                android:layout_height="63dp"
+                android:layout_width="335dp"
+                android:layout_height="83dp"
                 android:text="Employee Email:"
                 android:textColor="@color/app_theme"
                 android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.761"
+                app:layout_constraintHorizontal_bias="0.51"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.36" />
+                app:layout_constraintVertical_bias="0.383" />
 
             <TextView
                 android:id="@+id/employeePhoneTextView"
-                android:layout_width="383dp"
-                android:layout_height="44dp"
+                android:layout_width="304dp"
+                android:layout_height="66dp"
                 android:text="Phone No.:"
                 android:textColor="@color/app_theme"
                 android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.571"
+                app:layout_constraintHorizontal_bias="0.312"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.499" />
+                app:layout_constraintVertical_bias="0.549" />
 
             <Button
                 android:id="@+id/button5"
-                android:layout_width="183dp"
-                android:layout_height="70dp"
+                android:layout_width="152dp"
+                android:layout_height="49dp"
                 android:backgroundTint="@color/app_theme"
                 android:drawableLeft="@drawable/baseline_login_24"
                 android:drawableTint="@color/app_theme_light"
                 android:text="CheckIn"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.07"
@@ -131,13 +131,13 @@
 
             <Button
                 android:id="@+id/button6"
-                android:layout_width="183dp"
-                android:layout_height="70dp"
+                android:layout_width="152dp"
+                android:layout_height="49dp"
                 android:backgroundTint="@color/app_theme"
                 android:drawableLeft="@drawable/baseline_logout_24"
                 android:drawableTint="@color/app_theme_light"
                 android:text="CheckOut"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.929"
