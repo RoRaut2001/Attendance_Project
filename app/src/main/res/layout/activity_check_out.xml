@@ -20,6 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:clickable="true"
+        android:contentDescription="Back to Home Button"
         android:textAlignment="center"
         app:backgroundTint="#DCF6EFF1"
         app:layout_constraintBottom_toTopOf="@+id/guideline4"
