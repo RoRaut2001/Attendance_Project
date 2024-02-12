@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ui1</string>
+    <string name="app_name">Attendance_app</string>
     <string name="select">Select Item</string>
     <string-array name="dropdown_options">
         <item>Select WorkType</item>
